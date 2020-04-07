@@ -15,5 +15,9 @@ yarn install
 ```sh
 yarn web
 ```
+open in browser http://localhost:3000/
+data sample in src/data.json
+hover marker to see stats and description
+
 
 
