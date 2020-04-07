@@ -1,0 +1,67 @@
+[
+    {
+      "id":"228",
+      "nama":"KABUPATEN PACITAN",
+      "latitude":"-8.17978001",
+      "longitude":"111.10600281",
+      "odp":"298",
+      "pdp":"3",
+      "positif":"0"
+
+    },
+    {
+        "id":"229",
+        "nama":"KABUPATEN PONOROGO",
+        "latitude":"-7.86507988",
+        "longitude":"111.47000122",
+        "odp":"191",
+        "pdp":"11",
+        "positif":"0"
+    },
+    {
+        "id":"230",
+        "nama":"KABUPATEN TRENGGALEK",
+        "latitude":"-8.07645035",
+        "longitude":"111.70600128",
+        "odp":"454",
+        "pdp":"2",
+        "positif":"0"
+    },
+    {
+        "id":"231",
+        "nama":"KABUPATEN TULUNGAGUNG",
+        "latitude":"-8.0912199",
+        "longitude":"111.96399689",
+        "odp":"624",
+        "pdp":"35",
+        "positif":"0"
+    },
+    {
+        "id":"232",
+        "nama":"KABUPATEN BLITAR",
+        "latitude":"-8.13086987",
+        "longitude":"112.22000122",
+        "odp":"428",
+        "pdp":"3",
+        "positif":"1"
+    },
+    {
+        "id":"233",
+        "nama":"KABUPATEN KEDIRI",
+        "latitude":"-7.8232398",
+        "longitude":"112.19100189",
+        "odp":"166",
+        "pdp":"11",
+        "positif":"2"
+    },
+    {
+        "id":"234",
+        "nama":"KABUPATEN MALANG",
+        "latitude":"-8.24221039",
+        "longitude":"112.71499634",
+        "odp":"116",
+        "pdp":"42",
+        "positif":"5"
+    }              
+     
+]
