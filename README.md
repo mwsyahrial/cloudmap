@@ -16,9 +16,10 @@ yarn install
 yarn web
 ```
 ## Usage
-open in browser http://localhost:3000/
-data sample in src/data.json
-hover marker to see stats and description
+```
+-open in browser http://localhost:3000/
+-data sample in src/data.json
+-hover marker to see stats and description
 
 
 
